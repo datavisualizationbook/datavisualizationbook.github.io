@@ -8,7 +8,7 @@ This book is written for everyone who wants to explore and exploit Linked Data, 
 
 **Homepage:** http://www.linkeddatavisualization.com
   
-  
+  </br>
   
   
   
