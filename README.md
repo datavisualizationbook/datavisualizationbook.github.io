@@ -2,7 +2,7 @@
 
 This book is written for everyone who wants to explore and exploit Linked Data, either to the students of academic courses or data scientists and business users who wish to gain some practical experience with Linked Data tools. Previous knowledge of Semantic Web technologies such as RDF, OWL, SPARQL, or programming skills is not required. The goal of this booklet is to empower readers, with any background, to get started with their own experiments on the Linked Open Data Cloud, to select the most appropriate Linked Data visualization tool for each scenario, and to be aware of the challenges and techniques related to Big Linked Data Visual Exploration and Analytics. Since readers are likely to have a wide variety of different backgrounds, each chapter presents an overview of its content at the beginning. A reader who wishes a quick overview can start with the first page of each chapter. When the material in any section becomes more advanced, the reader can skip to the beginning of the next section without losing continuity.
 
-**Keywords:** Linked Data, Visual Analytics, Big Data, Visualization Tools, Web of Data, Semantic Web, Data Exploration, Information Visualization
+**Keywords:** Linked Data, Visual Analytics, Big Data, Visualization Tools, Web of Data, Semantic Web, Data Exploration, Information Visualization, Human Computer Interaction, Usability Test
 
 **Citation:** Laura Po, Nikos Bikakis, Federico Desimoni, and George Papastefanatos, "Linked Data Visualization: Techniques, Tools and Big Data" Morgan & Claypool, 2020 
 
@@ -21,7 +21,7 @@ This book is written for everyone who wants to explore and exploit Linked Data, 
 1.4 The Linked Open Data Cloud   
 1.5 Web of Data in Numbers   
 1.6 The Value and Impact of Linked and Open Data   
-1.7 SemanticWeb Technologies   
+1.7 Semantic Web Technologies   
 1.8 Conclusions   
 
 **2 Principles of Data Visualization**    
@@ -57,7 +57,7 @@ This book is written for everyone who wants to explore and exploit Linked Data, 
 
 **5 Empirical Evaluation of Linked Data Visualization Tools**  
 5.1 The Basic Characteristics of the Tools  
-5.2 Evaluation of the tools w.r.tthe Use Cases  
+5.2 Evaluation of the tools w.r.t. the Use Cases  
 5.2.1 Evaluation of T-Box use cases  
 5.2.2 Evaluation of A-Box use cases  
 5.2.3 Evaluation of A-Box and T-Box uses cases  
@@ -66,8 +66,6 @@ This book is written for everyone who wants to explore and exploit Linked Data, 
 5.4 Conclusions  
 
 **6 Conclusions and Future Challenges**  
-6.1 Future challenges  
-
 
 
 
