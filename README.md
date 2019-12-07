@@ -1,13 +1,14 @@
 # **Linked Data Visualization Book: Techniques, Tools & Big Data**
 
-This book is written for everyone who wants to explore and exploit Linked Data, either to the students of academic courses or data scientists and business users who wish to gain some practical experience with Linked Data tools. Previous knowledge of Semantic Web technologies such as RDF, OWL, SPARQL, or programming skills is not required. The goal of this booklet is to empower readers, with any background, to get started with their own experiments on the Linked Open Data Cloud, to select the most appropriate Linked Data visualization tool for each scenario, and to be aware of the challenges and techniques related to Big Linked Data Visual Exploration and Analytics. Since readers are likely to have a wide variety of different backgrounds, each chapter presents an overview of its content at the beginning. A reader who wishes a quick overview can start with the first page of each chapter. When the material in any section becomes more advanced, the reader can skip to the beginning of the next section without losing continuity.
+Linked Data (LD) is nowadays a well established standard for publishing and managing structured information on the Web, gathering and bridging together knowledge from very different scientific and commercial domains. The development of Linked Data Visualization techniques and tools has been followed as the primary means for the analysis of this vast amount of information by data scientists, domain experts, business users and citizens. This book aims at providing an overview of the recent advances in this area, focusing on techniques, tools and use cases of visualization and visual analysis of LD. It presents all necessary preliminary concepts related to the LD technology, the main techniques employed for data visualization based on the characteristics of the underlying data, use cases and tools for LD visualization and finally a thorough assessment of the usability of these tools, under different business scenarios. The goal of this book is to offer interested readers a complete guide on the evolution of LD visualization and empower them to get started with the visual analysis of such data.
 
-**Keywords:** Linked Data, Visual Analytics, Big Data, Visualization Tools, Web of Data, Semantic Web, Data Exploration, Information Visualization, Human Computer Interaction, Usability Test
 
-**Citation:** Laura Po, Nikos Bikakis, Federico Desimoni, and George Papastefanatos, "Linked Data Visualization: Techniques, Tools and Big Data" Morgan & Claypool, 2020 
+**Keywords:** Linked Data, Visual Analytics, Big Data, Visualization Tools, Web of Data, Semantic Web, Data Exploration, Information Visualization, Human Computer Interaction, Usability
 
-**Homepage:** http://www.linkeddatavisualization.com
-  
+**Book Citation:** Laura Po, Nikos Bikakis, Federico Desimoni, and George Papastefanatos, "Linked Data Visualization: Techniques, Tools and Big Data" Morgan & Claypool, 2020 
+
+**Book Homepage:** http://www.linkeddatavisualization.com
+   
   </br>
   
   
